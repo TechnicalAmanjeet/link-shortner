@@ -1,13 +1,13 @@
-package com.link.shortner;
+package com.link.shortener;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LinkShortnerApplication {
+public class LinkShortenerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LinkShortnerApplication.class, args);
+		SpringApplication.run(LinkShortenerApplication.class, args);
 	}
 
 }
